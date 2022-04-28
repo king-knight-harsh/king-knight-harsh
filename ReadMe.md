@@ -8,13 +8,12 @@
 - 🔭 I’m currently working on portfolio website
 - 🌱 I’m currently learning cyber security
 - 👯 I’m looking to collaborate on web-dev projects
-- 🤔 I’m looking for help with 
 - 💬 Ask me about cyber security 
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him/his
 
 ## About Me
-* I'm in my Third year of BSc  and studying Applied Algorithms, Machine Learning and Data preparation techniques
+* I'm in my Third year of BSc and learning cyber security
 * I have worked as a Full stack developer with DIAG Lab Memorial university of Newfoundland
 * I'm a member of the Computer Science Student Organization.
 
@@ -41,7 +40,7 @@
 
 <h3 align="left">Social media</h3>
 <p align="left">
-<a href="https://github.com/king-knight-harsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh_Sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harsh-sharma-7b26a1196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh_Sharma" height="30" width="40" /></a>
 </p>
 <br>
 
