@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a Undergraduate computer science and mathematic student at Memorial University of Newfoundland. <h3>
 
-<img src="https://www.canva.com/design/DAE_LJNPZog/xDJ_rHZJgUuej_EMUzvgEA/view?utm_content=DAE_LJNPZog&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="python" width="400" height="236"/>
+![alt](https://www.canva.com/design/DAE_LJNPZog/xDJ_rHZJgUuej_EMUzvgEA/view?utm_content=DAE_LJNPZog&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 
 - 🔭 I’m currently working on portfolio website
 - 🌱 I’m currently learning cyber security
@@ -40,8 +40,7 @@
 
 <h3 align="left">Social media</h3>
 <p align="left">
-<a href="https://twitter.com/jaspinder_nl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaspinder_nl" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/harsh-sharma-7b26a1196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh_Sharma" height="30" width="40" /></a>
+<a href="https://github.com/king-knight-harsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Harsh_Sharma" height="30" width="40" /></a>
 </p>
 <br>
 
