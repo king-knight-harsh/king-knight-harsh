@@ -2,7 +2,7 @@
 
 <h3 align="center"> I'm a Undergraduate computer science and mathematic student at Memorial University of Newfoundland. <h3>
 
-![alt](https://www.canva.com/design/DAE_LJNPZog/xDJ_rHZJgUuej_EMUzvgEA/view?utm_content=DAE_LJNPZog&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![ScreenShot](/images/banner_hsharma.svg)
 
 - 🔭 I’m currently working on portfolio website
 - 🌱 I’m currently learning cyber security
