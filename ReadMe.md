@@ -6,15 +6,15 @@
 
 
 - 🔭 I’m currently working on portfolio website
-- 🌱 I’m currently learning cyber security
+- 🌱 I’m currently learning cyber security and preparing for network+
 - 👯 I’m looking to collaborate on web-dev projects
 - 💬 Ask me about cyber security 
 - 📫 How to reach me: LinkedIn
 - 😄 Pronouns: he/him/his
 
 ## About Me
-* I'm in my Third year of BSc and learning cyber security
-* I have worked as a Full stack developer with DIAG Lab Memorial university of Newfoundland
+* I'm in my third year of BSc and learning cyber security
+* I have worked as a Full-stack developer with DIAG Lab Memorial University of Newfoundland
 * I'm a member of the Computer Science Student Organization.
 
 ## Projects
