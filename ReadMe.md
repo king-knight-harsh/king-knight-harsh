@@ -22,6 +22,9 @@
 | Index | Project | Tech Used |
 |:------:|:-----------------:|:------:|
 |   1  |[Image-Based crop disease Detection](https://devpost.com/software/one-stop-agro?ref_content=user-portfolio&ref_feature=in_progress)| Python, Tensorflow, Keras, scikit-learn, JS, HTML |
+|   2  |[Personal-Portfolio website](https://hsharma-portfolio.herokuapp.com/)| ReactJs, ExpressJs, NodeJs, OwlCarousel2, nodeMailer, react-typical |
+|   3  |[S.B Telecom electronic webStore](https://github.com/king-knight-harsh/sbtelecom-webstore)| MongoDB, ReactJs, ExpressJs, NodeJs |
+|   4  |[The Game of focus (Board game)](https://github.com/king-knight-harsh/comp2005-fall21-group4)| Java, Java Swing module and Java serialization|
 
 ## Languages and Tools I've worked with
 <p align="left">
