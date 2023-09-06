@@ -1,6 +1,6 @@
 <h1 align="center"> 👋  Hi there! I am Harsh <h1>
 
-<h3 align="center"> I'm a Undergraduate computer science and mathematic student at Memorial University of Newfoundland. <h3>
+<h3 align="center"> I'm an Undergraduate computer science and mathematics student at Memorial University of Newfoundland. <h3>
 
 ![Harsh Sharma banner](/images/Harsh%20Sharma.svg)
 
@@ -8,15 +8,15 @@
 - 🔭 I’m currently preparing for my CEH V12 exam
 - 🌱 I’m currently finishing up my beginner learning path on TryHackMe
 - 👯 I’m looking to collaborate on web-dev projects
-- 💬 Ask me about cyber security 
+- 💬 Ask me about cybersecurity 
 - 📫 How to reach me: LinkedIn, Portfolio Website
 - 😄 Pronouns: he/him/his
 
 ## About Me
 * I'm in my third year of Bachelor of Computer Science.
-* I'm currently doing my internship as Software Engineer with Cadence Design Systems Inc.
-* I have worked as a Full-stack developer with DIAG Lab Memorial University of Newfoundland.
-* I'm an active member of TryHackMe (CyberSecurity Learning platform) community.
+* I currently work as a Software Engineer at Cadence Design Systems Inc.
+* I have worked as a Software Engineering intern at Cadence Designs Systems Inc.
+* I'm an active TryHackMe (CyberSecurity Learning platform) community member.
 * I'm a member of the Computer Science Student Organization.
 
 ## Projects
