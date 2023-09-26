@@ -13,8 +13,8 @@
 - 😄 Pronouns: he/him/his
 
 ## About Me
-* I'm in my third year of Bachelor of Computer Science.
-* I currently work as a Software Engineer at Cadence Design Systems Inc.
+* I'm in my fourth year of Bachelor of Computer Science.
+* I currently work as a Full-Stack Developer at Data and Image Analysis Group, Memorial University of Newfoundland.
 * I have worked as a Software Engineering intern at Cadence Designs Systems Inc.
 * I'm an active TryHackMe (CyberSecurity Learning platform) community member.
 * I'm a member of the Computer Science Student Organization.
