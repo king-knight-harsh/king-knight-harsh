@@ -1,8 +1,8 @@
-<h1 align="center"> 👋  Hi there! I am Harsh <h1>
+<h1 align="center"> 👋  Hi there! I am Harsh </h1>
 
-<h3 align="center"> I'm an Undergraduate computer science and mathematics student at Memorial University of Newfoundland. <h3>
+<h3 align="center"> I'm an Undergraduate computer science and mathematics student at Memorial University of Newfoundland. </h3>
 
-![Harsh Sharma banner](/images/Harsh%20Sharma.svg)
+<img src="/images/Harsh%20Sharma.svg" alt="Harsh Sharma banner">
 
 
 - 🔭 I’m currently preparing for my CEH V12 exam
