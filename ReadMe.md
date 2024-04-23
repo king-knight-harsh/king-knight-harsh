@@ -19,15 +19,15 @@
 
 ## Projects
 
-| Index | Project                                                                                       | Tech Used                                             |
-| :---- | :-------------------------------------------------------------------------------------------- | :---------------------------------------------------- |
-| 1     | [Tom's Maze Chase](https://project.hsharma.info/)                                             | JavaScript, ThreeJs, GitHub                           |
-| 2     | [Spare Spoon](https://youtube.com/watch?v=11lew5w7Lvs)                                        | Flutter, FirebaseAuth, Firestore, OpenAI              |
-| 3     | [CO2BY](https://devpost.com/software/co2by)                                                   | React, Express, Node, Bootstrap, AWS                  |
-| 4     | [Ment-NL](https://projectone.hsharma.info)                                                    | React, Express, Node, Bootstrap, Heroku, Git          |
-| 5     | [OneStopAgro](https://devpost.com/software/one-stop-agro)                                     | Python, TensorFlow, Keras, scikit-learn, JS, HTML     |
-| 6     | [Personal-Portfolio website](https://hsharma.info)                                            | React, HTML, Bootstrap, Firebase, Netlify, JavaScript |
-| 7     | [The Game of focus (Board game)](https://github.com/king-knight-harsh/comp2005-fall21-group4) | Java, Java Swing module, Java serialization           |
+| Index | Project                                                                       | Tech Used                                             |
+| :---- | :---------------------------------------------------------------------------- | :---------------------------------------------------- |
+| 1     | [Tom's Maze Chase](https://project.hsharma.info/)                             | JavaScript, ThreeJs, GitHub                           |
+| 2     | [Spare Spoon](https://youtube.com/watch?v=11lew5w7Lvs)                        | Flutter, FirebaseAuth, Firestore, OpenAI              |
+| 3     | [CO2BY](https://devpost.com/software/co2by)                                   | React, Express, Node, Bootstrap, AWS                  |
+| 4     | [Ment-NL](https://projectone.hsharma.info)                                    | React, Express, Node, Bootstrap, Heroku, Git          |
+| 5     | [OneStopAgro](https://devpost.com/software/one-stop-agro)                     | Python, TensorFlow, Keras, scikit-learn, JS, HTML     |
+| 6     | [Personal-Portfolio website](https://hsharma.info)                            | React, HTML, Bootstrap, Firebase, Netlify, JavaScript |
+| 7     | [The Game of focus (Board game)](https://www.youtube.com/watch?v=5F1bvY3h36s) | Java, Java Swing module, Java serialization           |
 
 ## Languages and Tools I've worked with
 
