@@ -22,7 +22,7 @@
 | Index | Project                                                                                       | Tech Used                                             |
 | :---- | :-------------------------------------------------------------------------------------------- | :---------------------------------------------------- |
 | 1     | [Tom's Maze Chase](https://project.hsharma.info/)                                             | JavaScript, ThreeJs, GitHub                           |
-| 2     | [Spare Spoon](https://youtube.com/watch?v=xxxxxx)                                             | Flutter, FirebaseAuth, Firestore, OpenAI              |
+| 2     | [Spare Spoon](https://youtube.com/watch?v=11lew5w7Lvs)                                        | Flutter, FirebaseAuth, Firestore, OpenAI              |
 | 3     | [CO2BY](https://devpost.com/software/co2by)                                                   | React, Express, Node, Bootstrap, AWS                  |
 | 4     | [Ment-NL](https://projectone.hsharma.info)                                                    | React, Express, Node, Bootstrap, Heroku, Git          |
 | 5     | [OneStopAgro](https://devpost.com/software/one-stop-agro)                                     | Python, TensorFlow, Keras, scikit-learn, JS, HTML     |
