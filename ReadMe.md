@@ -45,7 +45,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </div>
 
-## Certifications and Award
+## Certifications
 
 - **Certified Ethical Hacker (CEH v12)**
 - **AWS Solutions Architect – Associate**
