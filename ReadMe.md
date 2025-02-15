@@ -2,18 +2,20 @@
 
 <img src="./images/Harsh Sharma.svg" alt="Harsh Sharma banner">
 
-- 🔭 I’m currently preparing for my CEH V12 exam
+- 🔭 I’m currently preparing for my AWS Developer Associate Exam
 - 🌱 I’m currently finishing up my beginner learning path on TryHackMe
-- 👯 I’m looking to collaborate on web-dev projects
+- 👯 I’m looking to collaborate on any open-source project
 - 💬 Ask me about cybersecurity
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/king-knight-harsh/), [Portfolio](https://hsharma.info/)
 
 ## About Me
 
 - I have a Bachelor of Computer Science from [Memorial University of Newfoundland](https://mun.ca/).
-- I am currently working as a Full-Stack Developer at [Data and Image Analysis Group](https://diaglab.cs.mun.ca/).
-- I have previously worked as a CyberSecurity Analyst at [MetaCrust Service Ltd.](https://www.metacrust.ca/).
-- I have previously worked as a Software Engineering intern at [Cadence Designs Systems Inc](https://www.cadence.com/en_US/home.html).
+- I am currently working as a Cloud Software Developer (Full-time) at [Nasdaq Canada](https://www.nasdaq.com/)
+- I have previously worked as a Full-Stack Developer (Part-time) at [Data and Image Analysis Group](https://diaglab.cs.mun.ca/).
+- I have previously worked as a Machine Learning Engineer (Part-time) at [Meddai Medical Inc.](https://www.meddai.ca/)
+- I have previously worked as a CyberSecurity Analyst (Part-time) at [MetaCrust Service Ltd.](https://www.metacrust.ca/).
+- I have previously worked as a Software Engineer (Intern) at [Cadence Designs Systems Inc.](https://www.cadence.com/en_US/home.html).
 - I'm an active TryHackMe (CyberSecurity Learning platform) community member.
 - I'm a member of the Computer Science Student Organization.
 
@@ -42,6 +44,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
 </div>
+
+## Certifications and Award
+
+- **Certified Ethical Hacker (CEH v12)**
+- **AWS Solutions Architect – Associate**
+- **AWS Certified Cloud Practitioner**
 
 ## Connect with me
 
